@@ -20,7 +20,7 @@
 		"rankup": {
 			"deltaNext": 5
 		},
-		"appstore": {
+		"appstore": 
 			"limitResult": 3
 		}
 	},
